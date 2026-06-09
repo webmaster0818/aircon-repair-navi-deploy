@@ -1,4 +1,4 @@
-:HL["/_next/static/chunks/0gyg4_ginspd7.css","style"]
+:HL["/_next/static/chunks/0i9~336dmnsjx.css","style"]
 :HL["/images/hero-final.png","image"]
 :HL["/images/icon-snowflake.png","image"]
 :HL["/images/icon-water-drop.png","image"]
@@ -8,4 +8,4 @@
 :HL["/images/icon-gas.png","image"]
 :HL["/images/icon-remote.png","image"]
 :HL["/images/icon-alert.png","image"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}},"staleTime":300,"buildId":"_l6gj25RO2nCpHcfecaBT"}
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}},"staleTime":300,"buildId":"ZfD6DaFcmrQk0NNORGw-m"}
