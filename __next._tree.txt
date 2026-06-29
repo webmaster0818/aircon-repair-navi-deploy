@@ -8,4 +8,4 @@
 :HL["/images/icon-gas.png","image"]
 :HL["/images/icon-remote.png","image"]
 :HL["/images/icon-alert.png","image"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}},"staleTime":300,"buildId":"WTcircO8ZPQNyUlu026Ok"}
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}},"staleTime":300,"buildId":"s_lztnQUyYUW8C9Wq-6EC"}
