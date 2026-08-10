@@ -1,2 +1,2 @@
-:HL["/_next/static/chunks/098xxzjrz3q_p.css","style"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"company","param":null,"prefetchHints":0,"slots":{"children":{"name":"denki-koujiya","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"04_w7XP_vZONQ1XDkytdW"}
+:HL["/_next/static/chunks/0ffkicykt~zmr.css","style"]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"company","param":null,"prefetchHints":0,"slots":{"children":{"name":"denki-koujiya","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"NeH10vHSOEUp0SEO7hUer"}
