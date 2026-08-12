@@ -2,4 +2,4 @@
 :HL["https://www25.a8.net/svt/bgt?aid=260628928534&wid=013&eno=01&mid=s00000014894010006000&mc=1","image"]
 :HL["https://www13.a8.net/0.gif?a8mat=4B66KG+8TXR2Q+36X8+1NKMSH","image"]
 :HL["https://www19.a8.net/0.gif?a8mat=4B66KG+8TXR2Q+36X8+1NJK7M","image"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"company","param":null,"prefetchHints":0,"slots":{"children":{"name":"take-service","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"W7yf9FRjcqF6dOhzEuPUC"}
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"company","param":null,"prefetchHints":0,"slots":{"children":{"name":"take-service","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"tPbew4WogD01r6QWFuOoV"}
