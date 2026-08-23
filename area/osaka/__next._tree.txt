@@ -5,4 +5,4 @@
 :HL["https://www27.a8.net/svt/bgt?aid=260628928547&wid=013&eno=01&mid=s00000023342001011000&mc=1","image"]
 :HL["https://www10.a8.net/0.gif?a8mat=4B66KG+91ODXU+503W+60OXD","image"]
 :HL["https://www18.a8.net/0.gif?a8mat=4B66KG+91ODXU+503W+63WO2","image"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"area","param":null,"prefetchHints":0,"slots":{"children":{"name":"osaka","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"6M34jdbR4evG33qcNsAUd"}
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"area","param":null,"prefetchHints":0,"slots":{"children":{"name":"osaka","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"Ghk6q755a-CBveS0gOJrH"}
